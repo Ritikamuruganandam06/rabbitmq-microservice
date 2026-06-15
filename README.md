@@ -252,23 +252,6 @@ Welcome email sent to ritika@gmail.com
 
 ---
 
-## Future Enhancements
-
-### Week 2
-
-- Multiple Queues
-- Exchanges
-- Routing Keys
-- Retry Mechanism
-- Dead Letter Queue (DLQ)
-
-### Week 3
-
-- MongoDB Integration
-- Real Email Sending (Nodemailer)
-- Docker Compose
-- Multiple Consumers
-- Monitoring and Logging
 
 ---
 
