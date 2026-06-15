@@ -252,9 +252,6 @@ Welcome email sent to ritika@gmail.com
 
 ---
 
-
----
-
 ## Learning Outcomes
 
 By completing this project, you will understand:
