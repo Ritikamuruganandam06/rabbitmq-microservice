@@ -15,7 +15,7 @@ async function consume() {
   );
 
   console.log(
-    "Waiting for messages..."
+    "Waiting for messages....."
   );
 
   channel.consume(
